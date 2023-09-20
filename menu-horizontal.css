@@ -1,0 +1,64 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+.navbar {
+    background-color: #2e23ca;
+    overflow: hidden;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 70px;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    background-color: #2b206c;
+    color: white;
+}
+.nombre{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 14px 80px;
+    float: left;
+    
+}
+#titulo{
+    color: black;
+    text-align: center;
+}
+.uno{
+    margin:10px;
+}
+
+
+
+
+.navbar1 {
+    background-color: #2e23ca;
+    overflow: hidden;
+}
+
+.navbar1 a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 50px;
+    text-decoration: none;
+}
+
+.navbar1 a:hover {
+    background-color: #2b206c;
+    color: white;
+}
